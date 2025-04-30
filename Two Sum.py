@@ -56,5 +56,5 @@ class Solution:
 # Iteration 4:
 # i = 3, nums[i] = 2, so diff = 6 - 2 = 4
 # 4 is in seen, at index 2
-# ✅ Return [2, 3]
+# Return [2, 3]
 
